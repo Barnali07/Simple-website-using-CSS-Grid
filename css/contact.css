@@ -1,0 +1,56 @@
+.main ul{
+        text-decoration-style: none;
+
+}
+
+.main ul li{
+
+
+}
+
+.main ul li input{
+
+}
+
+.main ul li p{
+
+
+}warn {
+    color: #000;
+}
+.warn {
+    color: #F00;
+    font-size: 14px;
+    font-weight: bold;
+    font-variant: normal;
+}
+.main form p {
+    font-weight: bold;
+    background-color: #FFF;
+    border-top-color: #FFF;
+    border-right-color: #FFF;
+    border-bottom-color: #FFF;
+    border-left-color: #FFF;
+}
+.dividor {
+    color: #999;
+    border: 0px 0 #FFF;
+}
+.main form .dividor {
+    margin: 0px;
+    padding: 0px;
+    clip: rect(auto,auto,auto,auto);
+    top: 130px;
+    vertical-align: baseline;
+    left: auto;
+    right: auto;
+    bottom: auto;
+    position: absolute;
+    background-color: #FFF;
+    border-top-color: #FFF;
+    border-right-color: #FFF;
+    border-bottom-color: #FFF;
+    border-left-color: #FFF;
+}
+table {
+}
